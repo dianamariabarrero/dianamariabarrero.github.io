@@ -601,10 +601,10 @@
               }
             },
             ".card-title DIV": {
-              "color": "#ffffff"
+              "color": "#cebfaf"
             },
             ".card-title B": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             }
           },
           "_name": "features17",
